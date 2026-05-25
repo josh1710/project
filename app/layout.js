@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
         <ThemeProvider attribute="class" defaultTheme="light">
           <div className="flex min-h-screen flex-col">
             <Navigation />
-            <main className="flex-1">{children}</main>
+            <main className="site-background flex-1">{children}</main>
             <Footer />
           </div>
           <Toaster />
