@@ -2,7 +2,7 @@ import { SectionHeader } from '@/components/section-header';
 import { Card } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
-import { Github, Globe } from 'lucide-react';
+import { Github } from 'lucide-react';
 import Image from 'next/image';
 
 const projects = [
@@ -23,7 +23,7 @@ const projects = [
   {
     title: 'Jeu Snake',
     description: 'Jeu Snake conçu lors de ma première année de BTS.',
-    image: 'https://crestwoodvethospital.com/wp-content/uploads/2023/05/Garter_Snake-800x530-1.jpg',
+    image: '/images/snake-cartoon.png',
     technologies: ['Python'],
     github: 'https://github.com/josh1710/SNAKE/tree/main',
   },

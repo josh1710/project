@@ -13,7 +13,7 @@ const experiences = [
   {
     title: 'Alternance BTS SIO',
     company: 'STAGO',
-    period: 'Aout 2023 - Juillet 2025',
+    period: 'Aout 2023 - Juillet 2026',
     description: "Conception et développement d'un site web vitrine pour une association locale. Migration de bases de donnée interne de l'entreprise. Testing d'un site web intranet avant sa publication.",
     technologies: ['SQL', 'HTML', 'CSS', 'JavaScript']
   }
