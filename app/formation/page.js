@@ -76,23 +76,6 @@ export default function Formation() {
                 cybersécurité, à la gestion des données et aux nouveaux usages du web.
               </p>
 
-              <h3 className="text-lg font-semibold">Fréquence de veille</h3>
-              <p>
-                J'effectue une veille régulière chaque semaine. Je consulte mes sources
-                principales deux à trois fois par semaine et je fais une synthèse plus
-                complète à la fin de chaque mois afin de retenir les informations les
-                plus importantes.
-              </p>
-
-              <h3 className="text-lg font-semibold">Méthode utilisée</h3>
-              <ul className="list-inside list-disc space-y-2">
-                <li>Recherche d'articles récents sur les cryptomonnaies et la blockchain</li>
-                <li>Comparaison des informations entre plusieurs sources fiables</li>
-                <li>Classement des informations par thème : sécurité, réglementation, innovation et usages</li>
-                <li>Prise de notes pour résumer les tendances importantes</li>
-                <li>Suivi des évolutions techniques qui peuvent avoir un impact sur les métiers de l'informatique</li>
-              </ul>
-
               <h3 className="text-lg font-semibold">Outils de veille</h3>
               <ul className="list-inside list-disc space-y-2">
                 <li>Google Alerts pour recevoir des alertes sur les sujets liés à la blockchain et aux cryptomonnaies</li>
@@ -100,8 +83,7 @@ export default function Formation() {
                 <li>Cryptoast pour suivre l'actualité du secteur crypto en français</li>
                 <li>Le Monde Informatique pour relier le sujet aux enjeux informatiques professionnels</li>
                 <li>Journal du Net pour suivre les tendances numériques et économiques</li>
-                <li>LinkedIn pour repérer les analyses et retours d'expérience de professionnels du secteur</li>
-                <li>YouTube et podcasts spécialisés pour compléter les articles avec des explications plus pédagogiques</li>
+                <li>YouTube et podcasts spécialisés</li>
               </ul>
 
               <h3 className="text-lg font-semibold">Définition</h3>
@@ -116,14 +98,12 @@ export default function Formation() {
               <ul className="list-inside list-disc space-y-2">
                 <li>Blockchain : base de données décentralisée et difficilement modifiable</li>
                 <li>Preuve de travail (Proof of Work) et preuve d'enjeu (Proof of Stake)</li>
-                <li>Smart contracts : programmes permettant d'automatiser des actions sur une blockchain</li>
                 <li>Portefeuilles numériques pour stocker et sécuriser les crypto-actifs</li>
                 <li>Applications décentralisées, aussi appelées dApps</li>
               </ul>
 
               <h3 className="text-lg font-semibold">Actualités récentes</h3>
               <ul className="list-inside list-disc space-y-2">
-                <li>Hausse du Bitcoin en 2024 après le halving et intérêt renouvelé des investisseurs</li>
                 <li>Mise en place du règlement européen MiCA pour encadrer les crypto-actifs</li>
                 <li>Développement de projets combinant intelligence artificielle et blockchain</li>
                 <li>Évolution des enjeux de cybersécurité autour des portefeuilles numériques et des plateformes d'échange</li>
@@ -135,7 +115,6 @@ export default function Formation() {
                 <li><a href="https://cryptoast.fr" className="text-blue-600 underline">Cryptoast</a></li>
                 <li><a href="https://www.lemondeinformatique.fr" className="text-blue-600 underline">Le Monde Informatique</a></li>
                 <li><a href="https://www.journaldunet.com" className="text-blue-600 underline">Journal du Net</a></li>
-                <li><a href="https://finance.ec.europa.eu/digital-finance/markets-crypto-assets-regulation-mica_fr" className="text-blue-600 underline">Commission européenne - règlement MiCA</a></li>
               </ul>
 
               <h3 className="text-lg font-semibold">Conclusion</h3>
