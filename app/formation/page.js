@@ -79,9 +79,7 @@ export default function Formation() {
               <h3 className="text-lg font-semibold">Outils de veille</h3>
               <ul className="list-inside list-disc space-y-2">
                 <li>Google Alerts pour recevoir des alertes sur les sujets liés à la blockchain et aux cryptomonnaies</li>
-                <li>Feedly pour regrouper les flux RSS de sites spécialisés</li>
                 <li>Cryptoast pour suivre l'actualité du secteur crypto en français</li>
-                <li>Le Monde Informatique pour relier le sujet aux enjeux informatiques professionnels</li>
                 <li>Journal du Net pour suivre les tendances numériques et économiques</li>
                 <li>YouTube et podcasts spécialisés</li>
               </ul>
